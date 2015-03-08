@@ -1,0 +1,43 @@
+{
+    "name": "20euros",
+    "id": "20euros",
+    "description": {
+        "en": "2048 - 20euros",
+        "fr": "2048 - 20euros"
+    },
+    "developer": {
+        "name": "Moul",
+        "email": "moul@moul.re"
+    },
+    "multi_instance": "false",
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "ask": {
+                    "en": "Choose a domain for 20euros",
+                    "fr": "Choisissez un nom de domaine pour 20euros"
+                },
+                "example": "domain.org"
+            },
+            {
+                "name": "path",
+                "ask": {
+                    "en": "Choose a path for 20euros",
+                    "fr": "Choisissez un chemin pour 20euros"
+                },
+                "example": "/20euros",
+                "default": "/20euros"
+            },
+            {
+                "name": "is_public",
+                "ask": {
+                    "en": "Is it a public game?",
+                    "fr": "Est-ce un jeu public ?"
+                },
+                "choices": ["Yes", "No"],
+                "default": "Yes"
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+domain=$(sudo yunohost app setting 20euros domain)
+
+sudo rm -rf /var/www/20euros
+sudo rm -f /etc/nginx/conf.d/$domain.d/20euros.conf

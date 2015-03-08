@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Retrieve arguments
+domain=$1
+path=$2
+is_public=$3
+
+# Check domain/path availability
+sudo yunohost app checkurl $domain$path -a 20euros
+if [[ ! $? -eq 0 ]]; then
+    exit 1
+fi
+
+
+# Save app settings
+sudo yunohost app setting 20euros is_public -v "$is_public"
+
+# Copy files to the right place
+final_path=/var/www/20euros
+sudo mkdir -p $final_path
+sudo cp -a ../sources/* $final_path
+
+# Set permissions
+sudo chown -R www-data: $final_path
+
+# Modify Nginx configuration file and copy it to Nginx conf directory
+sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
+sed -i "s@YNH_WWW_ALIAS@$final_path/@g" ../conf/nginx.conf
+nginxconf=/etc/nginx/conf.d/$domain.d/20euros.conf
+sudo cp ../conf/nginx.conf $nginxconf
+sudo chown root: $nginxconf
+sudo chmod 600 $nginxconf
+
+if [ "$is_public" = "Yes" ];
+then
+    sudo yunohost app setting 20euros skipped_uris -v "/"
+fi
+
+# Reload web server & sso
+sudo service nginx reload
+sudo yunohost app ssowatconf
