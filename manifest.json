@@ -1,6 +1,6 @@
 {
     "name": "20euros",
-    "id": "20euros",
+    "id": "20",
     "packaging_format": 1,
     "description": {
         "en": "2048 - 20euros",
@@ -16,7 +16,7 @@
     "requirements": {
         "yunohost": ">= 3.7.0"
     },
-    "multi_instance": false,
+    "multi_instance": true,
     "services": [
         "nginx"
     ],
