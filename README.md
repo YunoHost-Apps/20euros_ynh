@@ -1,7 +1,32 @@
-# 20euros
+# 243 for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  [![Install 20euros with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=20euros)
+
+
+*[Lire ce readme en français.](./README_fr.md)*
+
+> *This package allow you to install 20euros quickly and simply on a YunoHost server.  
+If you don’t have YunoHost, please see [here](https://yunohost.org/#/install) to know how to install and enjoy it.*
+
+## Overview
 
 A clone of 2048 game with euro coins and bills
-https://github.com/jatekos101/20euros
 
+## Screenshots
+
+![](Screenshot-243.jpg)
+
+## Demo
+
+* [Official demo](https://github.com/jatekos101/20euros)
+
+#### Supported architectures
+
+* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/20euros/)
+
+## Links
+
+ * Report a bug: https://github.com/YunoHost-Apps/20euros_ynh/issues
+ * Upstream app repository: https://github.com/jatekos101/20euros
+ * YunoHost website: https://yunohost.org/
