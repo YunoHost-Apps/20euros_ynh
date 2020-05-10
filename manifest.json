@@ -9,14 +9,14 @@
     "version": "1.0~ynh1",
     "url": "https://github.com/jatekos101/20euros",
     "license": "MIT",
-    "developer": {
+    "maintainer": {
         "name": "Moul",
         "email": "moul@moul.re"
     },
     "requirements": {
         "yunohost": ">= 3.7.0"
     },
-    "multi_instance": true,
+    "multi_instance": false,
     "services": [
         "nginx"
     ],
