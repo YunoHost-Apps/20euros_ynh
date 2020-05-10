@@ -1,7 +1,6 @@
-# 243 for YunoHost
+# 20euros for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  [![Install 20euros with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=20euros)
-
 
 *[Lire ce readme en français.](./README_fr.md)*
 
@@ -10,15 +9,11 @@ If you don’t have YunoHost, please see [here](https://yunohost.org/#/install) 
 
 ## Overview
 
-A clone of 2048 game with euro coins and bills
+Clone of 2048 game with euro coins and bills.
 
 ## Screenshots
 
-![](Screenshot-243.jpg)
-
-## Demo
-
-* [Official demo](https://github.com/jatekos101/20euros)
+![](Screenshot-20euros.jpg)
 
 #### Supported architectures
 
