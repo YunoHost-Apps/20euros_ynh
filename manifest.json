@@ -10,8 +10,8 @@
     "url": "https://github.com/jatekos101/20euros",
     "license": "MIT",
     "maintainer": {
-        "name": "Moul",
-        "email": "moul@moul.re"
+        "name": "eric_G",
+        "email": "ericgaspar@free.fr"
     },
     "requirements": {
         "yunohost": ">= 3.7.0"
