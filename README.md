@@ -26,3 +26,17 @@ Clone of 2048 game with euro coins and bills.
  * Report a bug: https://github.com/YunoHost-Apps/20euros_ynh/issues
  * Upstream app repository: https://github.com/jatekos101/20euros
  * YunoHost website: https://yunohost.org/
+
+---
+
+Developers info
+----------------
+
+Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/20euros_ynh/tree/testing).
+
+To try the testing branch, please proceed like that.
+```
+sudo yunohost app install https://github.com/YunoHost-Apps/20euros_ynh/tree/testing --debug
+or
+sudo yunohost app upgrade 20euros -u https://github.com/YunoHost-Apps/20euros_ynh/tree/testing --debug
+```
