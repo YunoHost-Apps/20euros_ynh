@@ -18,7 +18,7 @@ Clone du jeu 2048 avec pièces et billets en euros.
 
 #### Architectures supportées
 
-* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/20euros/)
 
 ## Liens
