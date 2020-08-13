@@ -5,7 +5,7 @@
 
 *[Read this readme in english.](./README.md)* 
 
-> *Ce package vous permet d’installer 20euros rapidement et simplement sur un serveur Yunohost.  
+> *Ce package vous permet d’installer 20euros rapidement et simplement sur un serveur YunoHost.  
 Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
 ## Vue d’ensemble
@@ -29,8 +29,7 @@ Clone du jeu 2048 avec pièces et billets en euros.
 
 ---
 
-Informations pour les développeurs
-----------------
+## Informations pour les développeurs
 
 Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/20euros_ynh/tree/testing).
 
