@@ -1,0 +1,9 @@
+SOURCE_URL=https://github.com/jatekos101/20euros/archive/v0.1.zip
+SOURCE_SUM=79e743f874eef952e8e0ca5f7a48d04872d7671a9c0581ce188fc42ee11bdf72
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
+
+
+
