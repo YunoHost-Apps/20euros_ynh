@@ -29,8 +29,7 @@ Clone of 2048 game with euro coins and bills.
 
 ---
 
-Developers info
-----------------
+## Developers info
 
 Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/20euros_ynh/tree/testing).
 

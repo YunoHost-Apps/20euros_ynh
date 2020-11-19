@@ -29,8 +29,7 @@ Clone du jeu 2048 avec pièces et billets en euros.
 
 ---
 
-Informations pour les développeurs
-----------------
+## Informations pour les développeurs
 
 Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/20euros_ynh/tree/testing).
 

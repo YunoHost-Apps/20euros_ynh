@@ -12,7 +12,6 @@ source /usr/share/yunohost/helpers
 # MANAGE SCRIPT FAILURE
 #=================================================
 
-# Exit if an error occurs during the execution of the script
 ynh_abort_if_errors
 
 #=================================================
@@ -55,16 +54,17 @@ ynh_app_setting_set --app=$app --key=is_public --value=$is_public
 ynh_script_progression --message="Setting up source files..." --weight=1
 
 ynh_app_setting_set --app=$app --key=final_path --value=$final_path
+# Download, check integrity, uncompress and patch the source from app.src
+ynh_setup_source --dest_dir="$final_path"
 
-mkdir -p $final_path
-cp -a ../sources/* $final_path
+mv $final_path/'20 Euro.html' "$final_path/index.html"
 
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
-ynh_script_progression --message="Configuring Nginx web server..." --weight=2
+ynh_script_progression --message="Configuring NGINX web server..." --weight=2
 
-# Create a dedicated nginx config
+# Create a dedicated NGINX config
 ynh_add_nginx_config
 
 #=================================================
@@ -87,7 +87,7 @@ ynh_script_progression --message="Configuring SSOwat..." --weight=1
 #=================================================
 # RELOAD NGINX
 #=================================================
-ynh_script_progression --message="Reloading Nginx web server..." --weight=1
+ynh_script_progression --message="Reloading NGINX web server..." --weight=1
 
 ynh_systemd_action --service_name=nginx --action=reload
 
