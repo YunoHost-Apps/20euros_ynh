@@ -1,7 +1,7 @@
 # 20euros for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
-[![Install 20euros with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=20euros)
+[![Install 20euros with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
