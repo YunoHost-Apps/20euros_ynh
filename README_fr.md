@@ -1,11 +1,11 @@
-# 20euros pour YunoHost
+# 20 Euros pour YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
-[![Installer 20euros avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
+[![Installer 20 Euros avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
 *[Read this readme in english.](./README.md)* 
 
-> *Ce package vous permet d’installer 20euros rapidement et simplement sur un serveur YunoHost.  
+> *Ce package vous permet d’installer 20 Euros rapidement et simplement sur un serveur YunoHost.  
 Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
 ## Vue d’ensemble
