@@ -84,6 +84,7 @@ ynh_add_nginx_config
 
 # Set permissions on app files
 chown -R root: $final_path
+chmod -R o-rwx $final_path
 
 #=================================================
 # RELOAD NGINX
