@@ -18,8 +18,8 @@ Clone of 2048 game with euro coins and bills.
 
 #### Supported architectures
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/20euros%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/20euros/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/20euros.svg)](https://ci-apps-arm.yunohost.org/ci/apps/20euros/)
 
 ## Links
 
