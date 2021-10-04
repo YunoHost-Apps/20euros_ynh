@@ -17,8 +17,6 @@ Variante de 2048 avec pièces et billets en euros
 
 
 
-## Captures d'écran
-
 ![](./doc/screenshots/Screenshot-20euros.jpg)
 
 ## Documentations et ressources
