@@ -3,11 +3,16 @@
     "id": "20euros",
     "packaging_format": 1,
     "description": {
-        "en": "A 2048 variant with Euro coins and notes.",
-        "fr": "Une variante 2048 avec pièces et billets en euros."
+        "en": "2048 variant with Euro coins and notes",
+        "fr": "Variante de 2048 avec pièces et billets en euros"
     },
     "version": "1.0~ynh4",
     "url": "https://github.com/jatekos101/20euros",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://github.com/jatekos101/20euros",
+        "code": "https://github.com/jatekos101/20euros"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "eric_G",
@@ -24,8 +29,7 @@
         "install" : [
             {
                 "name": "domain",
-                "type": "domain",
-                "example": "domain.org"
+                "type": "domain"
             },
             {
                 "name": "path",
