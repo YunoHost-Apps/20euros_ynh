@@ -1,33 +1,32 @@
-# 20 Euros pour YunoHost
+# 20 euros pour YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
-[![Installer 20 Euros avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
+[![Niveau d'intégration](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
+[![Installer 20 euros avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
-*[Read this readme in english.](./README.md)* 
+*[Read this readme in english.](./README.md)*
+*[Lire ce readme en français.](./README_fr.md)*
 
-> *Ce package vous permet d’installer 20 Euros rapidement et simplement sur un serveur YunoHost.  
-Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
+> *Ce package vous permet d'installer 20 euros rapidement et simplement sur un serveur YunoHost.
+Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
 
-## Vue d’ensemble
+## Vue d'ensemble
 
-Clone du jeu 2048 avec pièces et billets en euros.
+Variante de 2048 avec pièces et billets en euros
 
-## Captures d’écran
+**Version incluse :** 1.0~ynh5
 
-![](Screenshot-20euros.jpg)
 
-#### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/20euros.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/20euros.svg)](https://ci-apps-arm.yunohost.org/ci/apps/20euros/)
+## Captures d'écran
 
-## Liens
+![](./doc/screenshots/Screenshot-20euros.jpg)
 
- * Signaler un bug : https://github.com/YunoHost-Apps/20euros_ynh/issues
- * Dépôt de l’application principale : https://github.com/jatekos101/20euros
- * Site web YunoHost : https://yunohost.org/
+## Documentations et ressources
 
----
+* Site officiel de l'app : https://github.com/jatekos101/20euros
+* Dépôt de code officiel de l'app : https://github.com/jatekos101/20euros
+* Documentation YunoHost pour cette app : https://yunohost.org/app_20euros
+* Signaler un bug : https://github.com/YunoHost-Apps/20euros_ynh/issues
 
 ## Informations pour les développeurs
 
@@ -39,3 +38,5 @@ sudo yunohost app install https://github.com/YunoHost-Apps/20euros_ynh/tree/test
 ou
 sudo yunohost app upgrade 20euros -u https://github.com/YunoHost-Apps/20euros_ynh/tree/testing --debug
 ```
+
+**Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps
