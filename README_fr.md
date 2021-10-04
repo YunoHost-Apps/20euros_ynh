@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Variante de 2048 avec pièces et billets en euros
 
-**Version incluse :** 1.0~ynh4
+**Version incluse :** 1.0~ynh5
 
 
 
