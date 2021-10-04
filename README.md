@@ -21,6 +21,8 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 
 
+## Screenshots
+
 ![](./doc/screenshots/Screenshot-20euros.jpg)
 
 ## Documentation and resources
