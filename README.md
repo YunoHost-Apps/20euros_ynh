@@ -17,12 +17,15 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 2048 variant with Euro coins and notes
 
-**Shipped version:** 1.0~ynh5
-
+**Shipped version:** 1.0~ynh6
 
 ## Screenshots
 
 ![Screenshot of 20 euros](./doc/screenshots/Screenshot-20euros.jpg)
+
+## :red_circle: Antifeatures
+
+- **Non-free assets**: Contains and makes use of non-free assets. The most common case is apps using artwork - images, sounds, music, etc. - under a commercial license.
 
 ## Documentation and resources
 
