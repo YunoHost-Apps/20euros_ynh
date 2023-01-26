@@ -6,11 +6,10 @@
         "en": "2048 variant with Euro coins and notes",
         "fr": "Variante de 2048 avec pièces et billets en euros"
     },
-    "version": "1.0~ynh6",
+    "version": "1.0~ynh7",
     "url": "https://github.com/jatekos101/20euros",
     "upstream": {
         "license": "MIT",
-        "website": "https://github.com/jatekos101/20euros",
         "code": "https://github.com/jatekos101/20euros"
     },
     "license": "MIT",

@@ -5,23 +5,23 @@ It shall NOT be edited by hand.
 
 # 20 euros pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
 [![Installer 20 euros avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer 20 euros rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer 20 euros rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Variante de 2048 avec pièces et billets en euros
 
-**Version incluse :** 1.0~ynh6
+**Version incluse :** 1.0~ynh7
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de 20 euros](./doc/screenshots/Screenshot-20euros.jpg)
+![Capture d’écran de 20 euros](./doc/screenshots/Screenshot-20euros.jpg)
 
 ## :red_circle: Fonctions indésirables
 
@@ -29,8 +29,7 @@ Variante de 2048 avec pièces et billets en euros
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://github.com/jatekos101/20euros>
-* Dépôt de code officiel de l'app : <https://github.com/jatekos101/20euros>
+* Dépôt de code officiel de l’app : <https://github.com/jatekos101/20euros>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_20euros>
 * Signaler un bug : <https://github.com/YunoHost-Apps/20euros_ynh/issues>
 
@@ -46,4 +45,4 @@ ou
 sudo yunohost app upgrade 20euros -u https://github.com/YunoHost-Apps/20euros_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
