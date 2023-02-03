@@ -12,7 +12,6 @@ maintainers = ["eric_G"]
 [upstream]
 license = "MIT"
 code = "https://github.com/jatekos101/20euros"
-website = "https://github.com/jatekos101/20euros"
 
 [integration]
 yunohost = ">= 11.1.2"
