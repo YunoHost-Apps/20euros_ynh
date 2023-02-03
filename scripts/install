@@ -13,7 +13,7 @@ source /usr/share/yunohost/helpers
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
-ynh_script_progression --message="Setting up source files..." --weight=1
+ynh_script_progression --message="Setting up source files..." --weight=2
 
 ynh_setup_source --dest_dir="$install_dir"
 
@@ -22,7 +22,7 @@ mv $install_dir/'20 Euro.html' "$install_dir/index.html"
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
-ynh_script_progression --message="Configuring NGINX web server..." --weight=2
+ynh_script_progression --message="Configuring NGINX web server..." --weight=3
 
 # Create a dedicated NGINX config
 ynh_add_nginx_config
