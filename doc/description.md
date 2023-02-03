@@ -1,1 +1,0 @@
-Variante de 2048 avec pièces et billets en euros.
