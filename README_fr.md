@@ -17,7 +17,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Variante de 2048 avec pièces et billets en euros
 
-**Version incluse :** 1.0~ynh6
+**Version incluse :** 1.0~ynh7
 
 ## Captures d’écran
 
@@ -29,7 +29,6 @@ Variante de 2048 avec pièces et billets en euros
 
 ## Documentations et ressources
 
-* Site officiel de l’app : <https://github.com/jatekos101/20euros>
 * Dépôt de code officiel de l’app : <https://github.com/jatekos101/20euros>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_20euros>
 * Signaler un bug : <https://github.com/YunoHost-Apps/20euros_ynh/issues>
