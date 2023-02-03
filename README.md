@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-2048 variant with Euro coins and notes
+Variante de 2048 avec pièces et billets en euros.
 
 **Shipped version:** 1.0~ynh8
 
