@@ -17,7 +17,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 2048 variant with Euro coins and notes
 
-**Shipped version:** 1.0~ynh7
+**Shipped version:** 1.0~ynh8
 
 ## Screenshots
 
