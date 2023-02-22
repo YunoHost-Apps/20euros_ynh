@@ -14,7 +14,7 @@ license = "MIT"
 code = "https://github.com/jatekos101/20euros"
 
 [integration]
-yunohost = ">= 11.1.2"
+yunohost = ">= 11.1.10"
 architectures = "all"
 multi_instance = true
 ldap = "not_relevant"
