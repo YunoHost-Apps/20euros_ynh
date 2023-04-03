@@ -5,7 +5,7 @@ name = "20 euros"
 description.en = "2048 variant with Euro coins and notes"
 description.fr = "Variante de 2048 avec pièces et billets en euros"
 
-version = "1.0~ynh8"
+version = "1.0~ynh9"
 
 maintainers = ["eric_G"]
 
