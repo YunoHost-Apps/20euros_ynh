@@ -14,11 +14,11 @@ license = "MIT"
 code = "https://github.com/jatekos101/20euros"
 
 [integration]
-yunohost = ">= 11.1.10"
+yunohost = ">= 11.1.16"
 architectures = "all"
 multi_instance = true
-ldap = "not_relevant"
-sso = "not_relevant"
+ldap = false
+sso = true
 disk = "50M"
 ram.build = "50M"
 ram.runtime = "50M"
@@ -38,6 +38,14 @@ ram.runtime = "50M"
     default = "visitors"
 
 [resources]
+
+    [resources.sources]
+
+        [resources.sources.main]
+        url = "https://github.com/jatekos101/20euros/archive/v0.1.zip"
+        sha256 = "79e743f874eef952e8e0ca5f7a48d04872d7671a9c0581ce188fc42ee11bdf72"
+        autoupdate.strategy = "latest_github_tag"
+
     [resources.system_user]
 
     [resources.install_dir]
