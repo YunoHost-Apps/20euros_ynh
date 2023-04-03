@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Variante de 2048 avec pièces et billets en euros.
 
-**Version incluse :** 1.0~ynh8
+**Version incluse :** 1.0~ynh9
 
 ## Captures d’écran
 
