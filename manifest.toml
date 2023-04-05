@@ -5,7 +5,7 @@ name = "20 euros"
 description.en = "2048 variant with Euro coins and notes"
 description.fr = "Variante de 2048 avec pièces et billets en euros"
 
-version = "1.0~ynh9"
+version = "0.1~ynh9"
 
 maintainers = ["eric_G"]
 
@@ -42,8 +42,8 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        url = "https://github.com/jatekos101/20euros/archive/v0.1.zip"
-        sha256 = "79e743f874eef952e8e0ca5f7a48d04872d7671a9c0581ce188fc42ee11bdf72"
+        url = "https://github.com/jatekos101/20euros/archive/refs/tags/v0.1.tar.gz"
+        sha256 = "a119aaf8130756616e79bad040a1fe3db4b1f9b5a09b37a8eb0f2b4a04e3cca5"
         autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
