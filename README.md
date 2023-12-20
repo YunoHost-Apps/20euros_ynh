@@ -31,7 +31,7 @@ Variante de 2048 avec pièces et billets en euros.
 ## Documentation and resources
 
 * Upstream app code repository: <https://github.com/jatekos101/20euros>
-* YunoHost documentation for this app: <https://yunohost.org/app_20euros>
+* YunoHost Store: <https://apps.yunohost.org/app/20euros>
 * Report a bug: <https://github.com/YunoHost-Apps/20euros_ynh/issues>
 
 ## Developer info
