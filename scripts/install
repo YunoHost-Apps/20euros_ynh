@@ -16,7 +16,6 @@ mv $install_dir/'20 Euro.html' "$install_dir/index.html"
 #=================================================
 ynh_script_progression "Configuring NGINX web server..."
 
-# Create a dedicated NGINX config
 ynh_config_add_nginx
 
 #=================================================
