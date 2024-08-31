@@ -5,7 +5,7 @@
 
 # YunoHost 上的 20 euros
 
-[![集成程度](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![工作状态](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/20euros.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
 
 [![使用 YunoHost 安装 20 euros](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
