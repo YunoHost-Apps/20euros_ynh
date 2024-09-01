@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # 20 euros para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/20euros.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
 
 [![Instalar 20 euros con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 

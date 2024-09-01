@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # 20 euros YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/20euros.svg)](https://dash.yunohost.org/appci/app/20euros) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/20euros.svg)](https://ci-apps.yunohost.org/ci/apps/20euros/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/20euros.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/20euros.maintain.svg)
 
 [![Instalatu 20 euros YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=20euros)
 
